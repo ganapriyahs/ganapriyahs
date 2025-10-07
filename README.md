@@ -37,7 +37,6 @@ I'm passionate about turning data into actionable insights, building scalable ma
 
 - LinkedIn: [linkedin.com/in/ganapriyahs](https://www.linkedin.com/in/ganapriyahs/)
 
-
 ---
 
 _Always learning, always building!_
