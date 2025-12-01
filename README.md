@@ -27,9 +27,6 @@ I'm passionate about turning data into actionable insights, building scalable ma
 
 ---
 
-## 📈 GitHub Stats
-
-![Ganapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&theme=radical&hide_border=true)
 ---
 
 ## 📫 Contact
