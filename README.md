@@ -27,8 +27,6 @@ I'm passionate about turning data into actionable insights, building scalable ma
 
 ---
 
----
-
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/ganapriyahs](https://www.linkedin.com/in/ganapriyahs/)
