@@ -27,7 +27,10 @@ I'm passionate about turning data into actionable insights, building scalable ma
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganapriyahs&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
