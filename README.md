@@ -27,6 +27,10 @@ I'm passionate about turning data into actionable insights, building scalable ma
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganapriyahs&theme=github-dark&hide_border=true)
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/ganapriyahs](https://www.linkedin.com/in/ganapriyahs/)
