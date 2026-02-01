@@ -145,6 +145,4 @@ Email: ganapriyahs@gmail.com
 
 *Building intelligent systems that make a difference*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ganapriyahs&color=58a6ff&style=flat-square&label=Profile+Views)
-
 </div>
