@@ -80,13 +80,14 @@ I believe in building AI systems that are:
 
 ## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganapriyahs&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -143,5 +144,7 @@ Email: ganapriyahs@gmail.com
 <div align="center">
 
 *Building intelligent systems that make a difference*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ganapriyahs&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
