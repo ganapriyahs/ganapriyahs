@@ -107,11 +107,21 @@ I enjoy building AI systems that are:
 
 I'm interested in collaborating on innovative ML projects, discussing emerging technologies in AI, or exploring opportunities in data science and machine learning engineering.
 
-Professional Links
-LinkedIn: linkedin.com/in/ganapriyahs
-GitHub: github.com/ganapriyahs
-Email: ganapriyahs@gmail.com
+<p align="left">
 
+<a href="https://linkedin.com/in/ganapriyahs">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ganapriyahs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ganapriyahs@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
