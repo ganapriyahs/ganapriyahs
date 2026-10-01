@@ -1,148 +1,241 @@
-<div align="center">
+# Hi, I'm Ganapriya Hiriyur Shivakumar 👋
 
-# Ganapriya Hiriyur Shivakumar
+### Machine Learning Engineer | Data Scientist | Generative AI & MLOps
 
-**Data Scientist • Machine Learning Engineer • AI Systems Architect**
+MS Data Analytics Engineering student at **Northeastern University** focused on building end-to-end machine learning systems, Generative AI applications, and production-ready MLOps pipelines.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganapriyahs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ganapriyahs)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ganapriyahs@gmail.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=300&size=16&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Building+Production-Grade+AI+Systems;Specializing+in+MLOps+%26+Scalability;Passionate+About+Impactful+Solutions" alt="Typing SVG" />
-
-</div>
+I work across the ML lifecycle, including data processing, model development, deployment, monitoring, cloud infrastructure, and evaluation.
 
 ---
 
-## Professional Summary
+## 🛠 Technical Stack
 
-Master's student in **Data Analytics Engineering** at Northeastern University with expertise in building end-to-end machine learning systems. Focused on developing scalable, production-ready AI solutions that bridge the gap between research and real-world deployment.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Core Expertise:** Machine Learning Systems • Deep Learning • Natural Language Processing • MLOps • Cloud Infrastructure
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-blue?style=flat-square)
 
----
-
-## Technical Expertise
-
-### Programming & Data Science
-```
-Python  •  R  •  SQL  •  Bash
-```
-
-### Machine Learning & AI
-```
-TensorFlow  •  PyTorch  •  Scikit-learn  •  Keras  •  Hugging Face Transformers
-```
+### Generative AI & NLP
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square)
+![LLM](https://img.shields.io/badge/LLMs-Generative_AI-purple?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=flat-square)
 
 ### MLOps & Infrastructure
-```
-Docker  •  Kubernetes  •  MLflow  •  Apache Airflow  •  Git  •  CI/CD Pipelines
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 
-### Cloud Platforms
-```
-Amazon Web Services (AWS)  •  Google Cloud Platform (GCP)  •  Microsoft Azure
-```
-
-### Data Engineering
-```
-ETL Pipelines  •  Data Warehousing  •  PostgreSQL  •  MongoDB  •  Apache Spark
-```
-
----
-
-## Current Focus
-
-**Research & Development**
-- Designing and implementing scalable MLOps architectures for production environments
-- Developing LLM-based intelligent agents with practical applications
-- Building robust model monitoring and evaluation frameworks
-- Exploring advanced techniques in model drift detection and mitigation
-
-**Areas of Interest**
-- Production ML Systems at Scale
-- Large Language Model Applications
-- Real-time Model Serving & Monitoring
-- Automated Machine Learning Pipelines
+### Cloud & Data Engineering
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## Professional Philosophy
+# 🚀 Featured Projects
 
-I believe in building AI systems that are:
+## 🎥 VidSynth
+### AI-Powered YouTube Video & Comment Analysis Platform
 
-**Robust** — Resilient to edge cases and production challenges  
-**Scalable** — Designed to handle growth from day one  
-**Maintainable** — Clear, documented, and easy to iterate on  
-**Impactful** — Solving meaningful problems with measurable outcomes
+**Python • FastAPI • Docker • GCP • MLflow • GitHub Actions • Transformers**
+
+AI-powered browser extension and backend system for analyzing and summarizing YouTube videos and comments.
+
+### Key Features
+
+- Built containerized ML microservices using FastAPI
+- Developed LLM-based video and comment summarization
+- Implemented automated CI/CD workflows
+- Added experiment tracking and model management using MLflow
+- Implemented bias monitoring and model evaluation
+- Added logging and model monitoring capabilities
+- Deployed services using Google Cloud infrastructure
+
+🔗 **Repository:**  
+[VidSynth YouTube Comment & Video Analysis Tool](https://github.com/ganapriyahs/VidSynth-YouTube-Comment-Video-Analysis-Tool)
 
 ---
 
-## GitHub Statistics
+## 🤖 RAG Assistant
+### Retrieval-Augmented Generation System
+
+**Python • LLMs • RAG • Embeddings • Vector Search**
+
+Developing a Retrieval-Augmented Generation system that combines semantic retrieval with Large Language Models to generate context-aware responses.
+
+### Pipeline
+
+Documents  
+↓  
+Chunking  
+↓  
+Embeddings  
+↓  
+Vector Database  
+↓  
+Semantic Retrieval  
+↓  
+Prompt Construction  
+↓  
+LLM  
+↓  
+Generated Response
+
+### Focus Areas
+
+- Document ingestion
+- Semantic chunking
+- Embedding generation
+- Vector search
+- Context retrieval
+- Prompt engineering
+- LLM response generation
+- Retrieval evaluation
+
+🔗 **Repository:**  
+[RAG Assistant](https://github.com/ganapriyahs/rag-assistant)
+
+---
+
+## ☁️ Enterprise ETL Pipeline
+### Airflow + Google Cloud Data Engineering
+
+**Apache Airflow • GCP Data Fusion • BigQuery • Python • Docker**
+
+Built an automated cloud-based ETL workflow for secure data ingestion, transformation, validation, and analytics.
+
+### Features
+
+- Workflow orchestration using Apache Airflow
+- Data ingestion with Google Cloud Data Fusion
+- Data validation and transformation
+- Sensitive-data masking
+- BigQuery data warehousing
+- Pipeline logging and monitoring
+- Automated workflow execution
+
+### Architecture
+
+Data Sources  
+↓  
+GCP Data Fusion  
+↓  
+Validation / Transformation  
+↓  
+Apache Airflow  
+↓  
+BigQuery  
+↓  
+Analytics
+
+---
+
+## 📊 Customer Churn Prediction
+
+**Python • XGBoost • Random Forest • SMOTE • Scikit-learn**
+
+Built a machine learning pipeline to predict customer churn using more than **200K records**.
+
+### Highlights
+
+- Performed data preprocessing and feature engineering
+- Addressed class imbalance using SMOTE
+- Trained Random Forest and XGBoost models
+- Generated customer-level churn probabilities
+- Built retention-focused analytics
+- Evaluated models using classification metrics
+
+---
+
+## 🩻 Chest X-Ray Disease Classification
+
+**PyTorch • DenseNet121 • ResNet50 • Transfer Learning**
+
+Built a multi-label deep learning system using the **NIH Chest X-Ray dataset** containing more than **100K medical images**.
+
+### Highlights
+
+- Created a custom PyTorch dataset pipeline
+- Implemented multi-label classification
+- Trained DenseNet121 and ResNet50 architectures
+- Applied transfer learning
+- Fine-tuned pretrained models
+- Evaluated disease-level performance using AUC
+
+---
+
+# 🔬 Currently Exploring
+
+- Retrieval-Augmented Generation
+- LLM Agents
+- AI Tool-Using Systems
+- Model Monitoring
+- Model Drift Detection
+- Production LLM Inference
+- Distributed Machine Learning
+- Causal Machine Learning
+- ML System Design
+
+---
+
+# 🎓 Education
+
+### Northeastern University
+**Master of Science in Data Analytics Engineering**
+
+Boston, Massachusetts
+
+### Areas of Study
+
+`Machine Learning` • `Deep Learning` • `Natural Language Processing` • `MLOps` • `Reinforcement Learning` • `Causal AI` • `Data Engineering`
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/ganapriyahs">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganapriyahs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ganapriya's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ganapriyahs">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&hide_border=true" />
+
 </p>
 
 ---
 
-## Featured Work
+# 🤝 Connect With Me
 
-### Machine Learning Projects
+<p align="left">
 
-**End-to-End ML Pipelines**  
-Designed and deployed production-ready machine learning systems with automated training, evaluation, and deployment workflows.
+<a href="https://linkedin.com/in/ganapriyahs">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Natural Language Processing Applications**  
-Built NLP solutions for text classification, sentiment analysis, and information extraction using state-of-the-art transformer models.
+<a href="https://github.com/ganapriyahs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**MLOps Infrastructure**  
-Implemented comprehensive MLOps practices including model versioning, experiment tracking, and automated monitoring.
+<a href="mailto:ganapriyahs@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*Visit my repositories for detailed project documentation and code samples.*
-
----
-
-## Education & Continuous Learning
-
-**Master of Science in Data Analytics Engineering**  
-Northeastern University, Boston, MA
-
-**Ongoing Learning**
-- Advanced ML system design patterns
-- Large language model fine-tuning and deployment
-- Distributed computing for machine learning
-- Production-grade software engineering practices
+</p>
 
 ---
 
-## Professional Interests
-
-- **Scalable AI Systems:** Architecture patterns for production ML
-- **Model Operations:** Deployment, monitoring, and lifecycle management
-- **Research to Production:** Bridging academic research and practical implementation
-- **Open Source:** Contributing to the ML engineering community
-
----
-
-## Let's Connect
-
-I'm interested in collaborating on innovative ML projects, discussing emerging technologies in AI, or exploring opportunities in data science and machine learning engineering.
-
-**Professional Links**  
-LinkedIn: [linkedin.com/in/ganapriyahs](https://www.linkedin.com/in/ganapriyahs/)  
-GitHub: [github.com/ganapriyahs](https://github.com/ganapriyahs)  
-Email: ganapriyahs@gmail.com
-
----
-
-<div align="center">
-
-*Building intelligent systems that make a difference*
-
-</div>
+<p align="center">
+<b>Building machine learning systems from experimentation to production.</b>
+</p>
