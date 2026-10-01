@@ -2,9 +2,9 @@
 
 ### Machine Learning Engineer | Data Scientist | Generative AI & MLOps
 
-MS Data Analytics Engineering student at **Northeastern University** focused on building end-to-end machine learning systems, Generative AI applications, and production-ready MLOps pipelines.
+MS Data Analytics Engineering student at **Northeastern University** focused on building end-to-end machine learning systems, Generative AI applications, and production-ready MLOps workflows.
 
-I work across the ML lifecycle, including data processing, model development, deployment, monitoring, cloud infrastructure, and evaluation.
+I work across the machine learning lifecycle, including data processing, model development, deployment, monitoring, cloud infrastructure, and evaluation.
 
 ---
 
@@ -42,160 +42,46 @@ I work across the ML lifecycle, including data processing, model development, de
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🔬 Current Focus
 
-## 🎥 VidSynth
-### AI-Powered YouTube Video & Comment Analysis Platform
-
-**Python • FastAPI • Docker • GCP • MLflow • GitHub Actions • Transformers**
-
-AI-powered browser extension and backend system for analyzing and summarizing YouTube videos and comments.
-
-### Key Features
-
-- Built containerized ML microservices using FastAPI
-- Developed LLM-based video and comment summarization
-- Implemented automated CI/CD workflows
-- Added experiment tracking and model management using MLflow
-- Implemented bias monitoring and model evaluation
-- Added logging and model monitoring capabilities
-- Deployed services using Google Cloud infrastructure
-
-🔗 **Repository:**  
-[VidSynth YouTube Comment & Video Analysis Tool](https://github.com/ganapriyahs/VidSynth-YouTube-Comment-Video-Analysis-Tool)
-
----
-
-## 🤖 RAG Assistant
-### Retrieval-Augmented Generation System
-
-**Python • LLMs • RAG • Embeddings • Vector Search**
-
-Developing a Retrieval-Augmented Generation system that combines semantic retrieval with Large Language Models to generate context-aware responses.
-
-### Pipeline
-
-Documents  
-↓  
-Chunking  
-↓  
-Embeddings  
-↓  
-Vector Database  
-↓  
-Semantic Retrieval  
-↓  
-Prompt Construction  
-↓  
-LLM  
-↓  
-Generated Response
-
-### Focus Areas
-
-- Document ingestion
-- Semantic chunking
-- Embedding generation
-- Vector search
-- Context retrieval
-- Prompt engineering
-- LLM response generation
-- Retrieval evaluation
-
-🔗 **Repository:**  
-[RAG Assistant](https://github.com/ganapriyahs/rag-assistant)
-
----
-
-## ☁️ Enterprise ETL Pipeline
-### Airflow + Google Cloud Data Engineering
-
-**Apache Airflow • GCP Data Fusion • BigQuery • Python • Docker**
-
-Built an automated cloud-based ETL workflow for secure data ingestion, transformation, validation, and analytics.
-
-### Features
-
-- Workflow orchestration using Apache Airflow
-- Data ingestion with Google Cloud Data Fusion
-- Data validation and transformation
-- Sensitive-data masking
-- BigQuery data warehousing
-- Pipeline logging and monitoring
-- Automated workflow execution
-
-### Architecture
-
-Data Sources  
-↓  
-GCP Data Fusion  
-↓  
-Validation / Transformation  
-↓  
-Apache Airflow  
-↓  
-BigQuery  
-↓  
-Analytics
-
----
-
-## 📊 Customer Churn Prediction
-
-**Python • XGBoost • Random Forest • SMOTE • Scikit-learn**
-
-Built a machine learning pipeline to predict customer churn using more than **200K records**.
-
-### Highlights
-
-- Performed data preprocessing and feature engineering
-- Addressed class imbalance using SMOTE
-- Trained Random Forest and XGBoost models
-- Generated customer-level churn probabilities
-- Built retention-focused analytics
-- Evaluated models using classification metrics
-
----
-
-## 🩻 Chest X-Ray Disease Classification
-
-**PyTorch • DenseNet121 • ResNet50 • Transfer Learning**
-
-Built a multi-label deep learning system using the **NIH Chest X-Ray dataset** containing more than **100K medical images**.
-
-### Highlights
-
-- Created a custom PyTorch dataset pipeline
-- Implemented multi-label classification
-- Trained DenseNet121 and ResNet50 architectures
-- Applied transfer learning
-- Fine-tuned pretrained models
-- Evaluated disease-level performance using AUC
-
----
-
-# 🔬 Currently Exploring
-
-- Retrieval-Augmented Generation
-- LLM Agents
-- AI Tool-Using Systems
-- Model Monitoring
-- Model Drift Detection
-- Production LLM Inference
-- Distributed Machine Learning
+- Building scalable machine learning and AI systems
+- Retrieval-Augmented Generation and LLM applications
+- AI agents and tool-using systems
+- Production model deployment and serving
+- Model monitoring and drift detection
+- Automated ML pipelines
+- Distributed machine learning
 - Causal Machine Learning
-- ML System Design
 
 ---
 
-# 🎓 Education
+## 🎯 Areas of Interest
+
+**Machine Learning Engineering**  
+Designing reliable ML systems that move from experimentation to production.
+
+**Generative AI**  
+Building practical applications using LLMs, RAG, embeddings, and intelligent agents.
+
+**MLOps**  
+Developing automated workflows for model training, deployment, versioning, monitoring, and evaluation.
+
+**Cloud AI Systems**  
+Designing scalable ML infrastructure using cloud-native technologies.
+
+**Data Engineering**  
+Building reliable pipelines for ingestion, transformation, processing, and analytics.
+
+---
+
+## 🎓 Education
 
 ### Northeastern University
-**Master of Science in Data Analytics Engineering**
-
+**Master of Science in Data Analytics Engineering**  
 Boston, Massachusetts
 
 ### Areas of Study
@@ -204,19 +90,19 @@ Boston, Massachusetts
 
 ---
 
-# 📈 GitHub Statistics
+## 💡 Engineering Philosophy
 
-<p align="center">
+I enjoy building AI systems that are:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganapriyahs&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapriyahs&layout=compact&hide_border=true" />
-
-</p>
+- **Scalable** — Designed to support growing workloads
+- **Reliable** — Built with monitoring, testing, and failure handling
+- **Maintainable** — Structured for collaboration and future development
+- **Production-Oriented** — Designed beyond notebooks and experimentation
+- **Impactful** — Focused on solving meaningful real-world problems
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
 
